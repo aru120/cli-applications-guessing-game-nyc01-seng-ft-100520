@@ -18,7 +18,7 @@ puts "Please enter a number between 1 - 6"
 end
 
 
-run_guessing_game
+
 
 
 
