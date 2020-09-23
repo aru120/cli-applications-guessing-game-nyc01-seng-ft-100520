@@ -2,7 +2,7 @@
 require 'pry'
 
 def run_guessing_game
-puts "Please enter a number between 1 - 6"
+
   computer_number = rand(6)+1
   input = gets.chomp
  
